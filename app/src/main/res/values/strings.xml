@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeWorkModul2Task2</string>
+    <string name="hint"><font size="10">кол-во денег</font></string>
+</resources>
